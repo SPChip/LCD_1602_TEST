@@ -1,0 +1,8 @@
+../Core/Src/LCD1602_SPChip.c:6:6:delay_us	16	static
+../Core/Src/LCD1602_SPChip.c:12:6:LCD_Init	8	static
+../Core/Src/LCD1602_SPChip.c:38:6:LCD_Put_Cur	16	static
+../Core/Src/LCD1602_SPChip.c:52:6:LCD_Clear	8	static
+../Core/Src/LCD1602_SPChip.c:56:6:LCD_WriteString	16	static
+../Core/Src/LCD1602_SPChip.c:63:6:LCD_SendCommand	16	static
+../Core/Src/LCD1602_SPChip.c:67:6:LCD_SendData	16	static
+../Core/Src/LCD1602_SPChip.c:71:6:LCD_Send	16	static
